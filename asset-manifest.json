@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ashutoshBalsaraf/static/css/main.f855e6bc.css",
-    "main.js": "/ashutoshBalsaraf/static/js/main.bc8851d3.js",
+    "main.css": "/ashutoshBalsaraf/static/css/main.e6c13ad2.css",
+    "main.js": "/ashutoshBalsaraf/static/js/main.7670477d.js",
     "static/js/453.3e42566c.chunk.js": "/ashutoshBalsaraf/static/js/453.3e42566c.chunk.js",
-    "static/media/logo.svg": "/ashutoshBalsaraf/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ashutoshBalsaraf/index.html",
-    "main.f855e6bc.css.map": "/ashutoshBalsaraf/static/css/main.f855e6bc.css.map",
-    "main.bc8851d3.js.map": "/ashutoshBalsaraf/static/js/main.bc8851d3.js.map",
+    "main.e6c13ad2.css.map": "/ashutoshBalsaraf/static/css/main.e6c13ad2.css.map",
+    "main.7670477d.js.map": "/ashutoshBalsaraf/static/js/main.7670477d.js.map",
     "453.3e42566c.chunk.js.map": "/ashutoshBalsaraf/static/js/453.3e42566c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.bc8851d3.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7670477d.js"
   ]
 }
